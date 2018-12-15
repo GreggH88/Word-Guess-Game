@@ -1,0 +1,30 @@
+body {
+  background-image: url(../images/solar-system-1789557_1280.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  margin: auto;
+}
+
+.titleBar {
+  width: 960px;
+  height: auto;
+  text-align: center;
+  margin: auto;
+  color: #f05e05;
+}
+
+.instructions {
+  top: 150px;
+}
+
+#infoPanel1, #infoPanel3 {
+  border-style: groove;
+  top: 200px;
+  height: auto;
+  padding-top: 15px;
+}
+
+#infoPanelHid {
+  top:200px;
+}
