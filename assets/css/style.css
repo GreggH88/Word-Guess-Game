@@ -26,6 +26,10 @@ body {
   color: #f05e05;
 }
 
+#winTally-Text {
+  margin-top: 15px;
+}
+
 #word-Blanks {
   font-size: 200%;
 }
