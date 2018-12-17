@@ -23,6 +23,11 @@ body {
   top: 200px;
   height: auto;
   padding-top: 15px;
+  color: #f05e05;
+}
+
+#word-Blanks {
+  font-size: 200%;
 }
 
 #infoPanelHid {
